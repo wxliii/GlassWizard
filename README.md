@@ -13,13 +13,13 @@ You can refer to the following repositories and their papers for the detailed co
 - GDD. Please refer to [GDD](https://mhaiyang.github.io/CVPR2020_GDNet/index.html)
 - HSO. Please refer to [HSO](https://mhaiyang.github.io/TIP2022-PGSNet/index.html)
 
-Please download the SD v2 checkpoint from [checkpoint](https://huggingface.co/stabilityai/stable-diffusion-2)
+Please download the SD v2 checkpoint from [checkpoint](https://huggingface.co/stabilityai/stable-diffusion-2) and download the pretrained textual embedding from [text embedding](https://drive.google.com/file/d/1685MapSch6k7s6BeIHC2uTshEI3AsZnK/view?usp=sharing). 
 
 ## Results
 
 Our prediction maps can be found on [Google Drive](https://drive.google.com/file/d/1PtYWrFRD9qlUk4BhvoWHmvJ20YuLye58/view?usp=sharing). 
 
-The can be downloaded on [Google Drive]().
+The weights can be downloaded on [Google Drive]().
 
 
 
