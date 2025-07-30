@@ -31,6 +31,13 @@ For evaluation,
 python eval.py
 ```
 
+
+## Training
+
+```shell
+python train_all.py
+```
+
 ## Acknowledgement
 [Stable Diffusion](https://huggingface.co/stabilityai/stable-diffusion-2)
 
