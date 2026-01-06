@@ -1,9 +1,7 @@
 # GlassWizard
 
 ## Requirements
-```shell
-pip install -r requirements.txt
-```
+Please refer to [Marigold](https://github.com/prs-eth/Marigold).
 
 ## Prepare Datasets and Checkpoints
 
@@ -15,11 +13,13 @@ You can refer to the following repositories and their papers for the detailed co
 
 Please download the SD v2 checkpoint from [checkpoint](https://huggingface.co/stabilityai/stable-diffusion-2) and download the pretrained textual embedding from [text embedding](https://drive.google.com/file/d/1685MapSch6k7s6BeIHC2uTshEI3AsZnK/view?usp=sharing). 
 
+Put these checkpoints into ./weights folder
+
 ## Results
 
 Our prediction maps can be found on [Google Drive](https://drive.google.com/file/d/1PtYWrFRD9qlUk4BhvoWHmvJ20YuLye58/view?usp=sharing). 
 
-The weights can be downloaded on [Google Drive]().
+The weights can be downloaded on [HuggingFace](https://huggingface.co/wxli318/GlassWizard).
 
 
 
@@ -31,12 +31,6 @@ For evaluation,
 python eval.py
 ```
 
-
-## Training
-
-```shell
-python train_all.py
-```
 
 ## Acknowledgement
 [Stable Diffusion](https://huggingface.co/stabilityai/stable-diffusion-2)
