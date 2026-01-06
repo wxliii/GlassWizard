@@ -19,7 +19,7 @@ Put these checkpoints into ./weights folder
 
 Our prediction maps can be found on [Google Drive](https://drive.google.com/file/d/1PtYWrFRD9qlUk4BhvoWHmvJ20YuLye58/view?usp=sharing). 
 
-The weights can be downloaded on [HuggingFace](https://huggingface.co/wxli318/GlassWizard).
+The weights can be downloaded on [HuggingFace](https://huggingface.co/wxli318/GlassWizard). Please move the diffusion_pytorch_model.bin to the unet folder.
 
 
 
