@@ -30,7 +30,7 @@ For evaluation,
 ```shell
 python eval.py
 ```
-
+We would like to clarify the F-measure metric used in this repository and in the paper.
 
 ## Acknowledgement
 [Stable Diffusion](https://huggingface.co/stabilityai/stable-diffusion-2)
