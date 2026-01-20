@@ -11,7 +11,7 @@ You can refer to the following repositories and their papers for the detailed co
 - GDD. Please refer to [GDD](https://mhaiyang.github.io/CVPR2020_GDNet/index.html)
 - HSO. Please refer to [HSO](https://mhaiyang.github.io/TIP2022-PGSNet/index.html)
 
-Please download the SD v2 checkpoint from [checkpoint](https://huggingface.co/stabilityai/stable-diffusion-2) and download the pretrained textual embedding from [text embedding](https://drive.google.com/file/d/1685MapSch6k7s6BeIHC2uTshEI3AsZnK/view?usp=sharing). (backup link from [Marigold](https://share.phys.ethz.ch/~pf/bingkedata/marigold/checkpoint/stable-diffusion-2.tar))
+Please download the SD v2 checkpoint from [checkpoint](https://huggingface.co/stabilityai/stable-diffusion-2) and download the pretrained textual embedding from [text embedding](https://drive.google.com/file/d/1685MapSch6k7s6BeIHC2uTshEI3AsZnK/view?usp=sharing). (SD v2 checkpoint backup link from [Marigold](https://share.phys.ethz.ch/~pf/bingkedata/marigold/checkpoint/stable-diffusion-2.tar))
 
 Put these checkpoints into ./weights folder
 
