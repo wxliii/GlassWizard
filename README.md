@@ -13,13 +13,15 @@ You can refer to the following repositories and their papers for the detailed co
 
 Please download the SD v2 checkpoint from [checkpoint](https://huggingface.co/stabilityai/stable-diffusion-2) and download the pretrained textual embedding from [text embedding](https://drive.google.com/file/d/1685MapSch6k7s6BeIHC2uTshEI3AsZnK/view?usp=sharing). (SD v2 checkpoint backup link from [Marigold](https://share.phys.ethz.ch/~pf/bingkedata/marigold/checkpoint/stable-diffusion-2.tar))
 
+The weights can be downloaded on [HuggingFace](https://huggingface.co/wxli318/GlassWizard). Please move the diffusion_pytorch_model.bin to the unet folder.
+
 Put these checkpoints into ./weights folder
 
 ## Results
 
 Our prediction maps can be found on [Google Drive](https://drive.google.com/file/d/1PtYWrFRD9qlUk4BhvoWHmvJ20YuLye58/view?usp=sharing). 
 
-The weights can be downloaded on [HuggingFace](https://huggingface.co/wxli318/GlassWizard). Please move the diffusion_pytorch_model.bin to the unet folder.
+
 
 
 
